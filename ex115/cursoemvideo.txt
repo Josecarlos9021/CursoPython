@@ -1,0 +1,3 @@
+José;20
+Oliver;90
+Yasmin;20
